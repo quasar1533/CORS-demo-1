@@ -4,7 +4,7 @@
     `yarn global add node-dev`
 1. 下载代码 
 2. 进入 qq.com 运行 server.js
-    `cd cors-1/qq-com; node-dev server.js 8888`
+    `cd CORS-demo-1/qq-com; node-dev server.js 8888`
 3. 进入 bd.com 运行 server.js
     `cd ../bd.com; node-dev server.js 9999`
 4. 设置 hosts
